@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Employees><Employee><EmployeeId>XYZ</EmployeeId><Name>Pankaj</Name><Department>IT</Department><Email>pankaj@example.com</Email><Salary>42000</Salary></Employee><Employee><EmployeeId>127</EmployeeId><Name>Meena</Name><Email>meena@example.com</Email><Salary>38000</Salary></Employee><Employee><EmployeeId>128</EmployeeId><Name>Ravi</Name><Department>Sales</Department><Email>ravi@example.com</Email><Salary>ABC</Salary></Employee></Employees>

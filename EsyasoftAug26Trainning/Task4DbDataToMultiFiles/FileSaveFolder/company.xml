@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<company>
+  <companyId>1</companyId>
+  <companyName>TechSolutions Pvt Ltd</companyName>
+  <location>
+    <country>India</country>
+    <state>Madhya Pradesh</state>
+    <city>Indore</city>
+  </location>
+  <departments>
+    <department>
+      <departmentId>101</departmentId>
+      <departmentName>IT</departmentName>
+      <employees>
+        <employee>
+          <employeeId>1001</employeeId>
+          <name>John Smith</name>
+          <email>john@techsolutions.com</email>
+          <salary>
+            <basic>60000</basic>
+            <bonus>10000</bonus>
+            <currency>INR</currency>
+          </salary>
+          <projects>
+            <project>
+              <projectId>5001</projectId>
+              <projectName>Employee Management System</projectName>
+              <status>In Progress</status>
+              <tasks>
+                <task>
+                  <taskId>9001</taskId>
+                  <taskName>Create Login API</taskName>
+                  <status>Completed</status>
+                  <hours>12</hours>
+                </task>
+                <task>
+                  <taskId>9002</taskId>
+                  <taskName>Create Employee API</taskName>
+                  <status>In Progress</status>
+                  <hours>20</hours>
+                </task>
+              </tasks>
+            </project>
+            <project>
+              <projectId>5002</projectId>
+              <projectName>Inventory System</projectName>
+              <status>Pending</status>
+              <tasks>
+                <task>
+                  <taskId>9003</taskId>
+                  <taskName>Create Product API</taskName>
+                  <status>Pending</status>
+                  <hours>15</hours>
+                </task>
+              </tasks>
+            </project>
+          </projects>
+        </employee>
+        <employee>
+          <employeeId>1002</employeeId>
+          <name>Sarah Johnson</name>
+          <email>sarah@techsolutions.com</email>
+          <salary>
+            <basic>75000</basic>
+            <bonus>15000</bonus>
+            <currency>INR</currency>
+          </salary>
+          <projects>
+            <project>
+              <projectId>5003</projectId>
+              <projectName>Banking API</projectName>
+              <status>Completed</status>
+              <tasks>
+                <task>
+                  <taskId>9004</taskId>
+                  <taskName>Transaction API</taskName>
+                  <status>Completed</status>
+                  <hours>30</hours>
+                </task>
+                <task>
+                  <taskId>9005</taskId>
+                  <taskName>Account API</taskName>
+                  <status>Completed</status>
+                  <hours>18</hours>
+                </task>
+              </tasks>
+            </project>
+          </projects>
+        </employee>
+      </employees>
+    </department>
+    <department>
+      <departmentId>102</departmentId>
+      <departmentName>HR</departmentName>
+      <employees>
+        <employee>
+          <employeeId>1003</employeeId>
+          <name>David Brown</name>
+          <email>david@techsolutions.com</email>
+          <salary>
+            <basic>50000</basic>
+            <bonus>5000</bonus>
+            <currency>INR</currency>
+          </salary>
+          <projects>
+            <project>
+              <projectId>5004</projectId>
+              <projectName>Recruitment Portal</projectName>
+              <status>In Progress</status>
+              <tasks>
+                <task>
+                  <taskId>9006</taskId>
+                  <taskName>Candidate Registration</taskName>
+                  <status>Completed</status>
+                  <hours>10</hours>
+                </task>
+                <task>
+                  <taskId>9007</taskId>
+                  <taskName>Interview Scheduling</taskName>
+                  <status>In Progress</status>
+                  <hours>16</hours>
+                </task>
+              </tasks>
+            </project>
+          </projects>
+        </employee>
+      </employees>
+    </department>
+  </departments>
+</company>

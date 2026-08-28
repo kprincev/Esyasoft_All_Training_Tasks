@@ -1,0 +1,44 @@
+2026-08-24 15:05:05.004 +05:30 [INF] [1] Application Start With loging Steps...
+2026-08-24 15:05:05.047 +05:30 [INF] [2] Check Application Mode Y (Publish Msg Thourgh Api) Or N (Suscriber Msg) 
+2026-08-24 15:05:05.058 +05:30 [INF] [3] Application Mode N Suscribe Msg From Rmq start
+2026-08-24 15:05:05.307 +05:30 [INF] RabbitMQ Consumer Connection ..
+2026-08-24 15:05:05.310 +05:30 [INF] Create tcp connection to rmq server
+2026-08-24 15:05:05.644 +05:30 [INF] Listening connection: TCP Connection Successfully
+2026-08-24 15:05:05.648 +05:30 [INF] Create Channel Inside Tcp conncetion 
+2026-08-24 15:05:05.664 +05:30 [INF]  Channel Created
+2026-08-24 15:05:05.668 +05:30 [INF] Declare Queue
+2026-08-24 15:05:05.677 +05:30 [INF] Queue Declare Successfully =>name is =hello_world
+2026-08-24 15:05:05.681 +05:30 [INF]  [*] Waiting for messages in 'hello_world'. To exit press CTRL+C
+2026-08-24 15:05:28.161 +05:30 [INF] [1] Application Start With loging Steps...
+2026-08-24 15:05:28.198 +05:30 [INF] [2] Check Application Mode Y (Publish Msg Thourgh Api) Or N (Suscriber Msg) 
+2026-08-24 15:05:28.207 +05:30 [INF] [3] Application Mode Y Publish Msg Thourgh APi Start
+2026-08-24 15:05:28.208 +05:30 [INF] [4] Get Data From DB 
+2026-08-24 15:05:29.085 +05:30 [INF] Try To Make Connection To Db
+2026-08-24 15:05:29.788 +05:30 [INF] Db Connection Succssfull
+2026-08-24 15:05:30.538 +05:30 [INF] Connection Open Successlly 
+2026-08-24 15:05:30.653 +05:30 [INF] Resive Data From db
+2026-08-24 15:05:30.654 +05:30 [INF] Check Data Empty or Avaliable 
+2026-08-24 15:05:30.654 +05:30 [INF] Data is not empty
+2026-08-24 15:05:30.655 +05:30 [INF] Data is object to json string convert
+2026-08-24 15:05:30.656 +05:30 [INF] Parse json string to json object 
+2026-08-24 15:05:30.662 +05:30 [INF] Get Last id of customer  4
+2026-08-24 15:05:30.668 +05:30 [INF] Call To Api To sent Json Call Methond PublisherApiCall
+2026-08-24 15:05:31.547 +05:30 [INF] Json is Sent Successfully
+2026-08-24 15:05:31.552 +05:30 [INF] Service End
+2026-08-24 15:07:11.116 +05:30 [INF] [1] Application Start With loging Steps...
+2026-08-24 15:07:11.154 +05:30 [INF] [2] Check Application Mode Y (Publish Msg Thourgh Api) Or N (Suscriber Msg) 
+2026-08-24 15:07:11.162 +05:30 [INF] [3] Application Mode Y Publish Msg Thourgh APi Start
+2026-08-24 15:07:11.163 +05:30 [INF] [4] Get Data From DB 
+2026-08-24 15:07:11.230 +05:30 [INF] Try To Make Connection To Db
+2026-08-24 15:07:11.361 +05:30 [INF] Db Connection Succssfull
+2026-08-24 15:07:11.724 +05:30 [INF] Connection Open Successlly 
+2026-08-24 15:07:11.786 +05:30 [INF] Resive Data From db
+2026-08-24 15:07:11.787 +05:30 [INF] Check Data Empty or Avaliable 
+2026-08-24 15:07:11.788 +05:30 [INF] Data is not empty
+2026-08-24 15:07:11.789 +05:30 [INF] Data is object to json string convert
+2026-08-24 15:07:11.789 +05:30 [INF] Parse json string to json object 
+2026-08-24 15:07:11.796 +05:30 [INF] Get Last id of customer  6
+2026-08-24 15:07:11.801 +05:30 [INF] Call To Api To sent Json Call Methond PublisherApiCall
+2026-08-24 15:07:11.807 +05:30 [INF] sent json to queue name = hello_world
+2026-08-24 15:07:12.020 +05:30 [INF] Json is Sent Successfully
+2026-08-24 15:07:12.022 +05:30 [INF] Service End

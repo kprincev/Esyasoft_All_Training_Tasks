@@ -1,0 +1,152 @@
+declare @json nvarchar(max)='{
+  "companyId": 1,
+  "companyName": "TechSolutions Pvt Ltd",
+  "location": {
+    "country": "India",
+    "state": "Madhya Pradesh",
+    "city": "Indore"
+  },
+  "departments": [
+    {
+      "departmentId": 101,
+      "departmentName": "IT",
+      "employees": [
+        {
+          "employeeId": 1001,
+          "name": "John Smith",
+          "email": "john@techsolutions.com",
+          "salary": {
+            "basic": 60000,
+            "bonus": 10000,
+            "currency": "INR"
+          },
+          "projects": [
+            {
+              "projectId": 5001,
+              "projectName": "Employee Management System",
+              "status": "In Progress",
+              "tasks": [
+                {
+                  "taskId": 9001,
+                  "taskName": "Create Login API",
+                  "status": "Completed",
+                  "hours": 12
+                },
+                {
+                  "taskId": 9002,
+                  "taskName": "Create Employee API",
+                  "status": "In Progress",
+                  "hours": 20
+                }
+              ]
+            },
+            {
+              "projectId": 5002,
+              "projectName": "Inventory System",
+              "status": "Pending",
+              "tasks": [
+                {
+                  "taskId": 9003,
+                  "taskName": "Create Product API",
+                  "status": "Pending",
+                  "hours": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "employeeId": 1002,
+          "name": "Sarah Johnson",
+          "email": "sarah@techsolutions.com",
+          "salary": {
+            "basic": 75000,
+            "bonus": 15000,
+            "currency": "INR"
+          },
+          "projects": [
+            {
+              "projectId": 5003,
+              "projectName": "Banking API",
+              "status": "Completed",
+              "tasks": [
+                {
+                  "taskId": 9004,
+                  "taskName": "Transaction API",
+                  "status": "Completed",
+                  "hours": 30
+                },
+                {
+                  "taskId": 9005,
+                  "taskName": "Account API",
+                  "status": "Completed",
+                  "hours": 18
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "departmentId": 102,
+      "departmentName": "HR",
+      "employees": [
+        {
+          "employeeId": 1003,
+          "name": "David Brown",
+          "email": "david@techsolutions.com",
+          "salary": {
+            "basic": 50000,
+            "bonus": 5000,
+            "currency": "INR"
+          },
+          "projects": [
+            {
+              "projectId": 5004,
+              "projectName": "Recruitment Portal",
+              "status": "In Progress",
+              "tasks": [
+                {
+                  "taskId": 9006,
+                  "taskName": "Candidate Registration",
+                  "status": "Completed",
+                  "hours": 10
+                },
+                {
+                  "taskId": 9007,
+                  "taskName": "Interview Scheduling",
+                  "status": "In Progress",
+                  "hours": 16
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+'
+
+
+
+
+--select e.employeeId,e.name,e.email,d.departmentId from openjson(@json,'$.departments') 
+--with
+--(
+--    departmentId int ,
+--    employees nvarchar(max) '$.employees' as json
+--) d
+--cross apply openjson(d.employees) with
+--(
+--employeeId int,
+--name varchar(20),
+--email varchar(30)
+--)e
+
+
+
+
+
+select 

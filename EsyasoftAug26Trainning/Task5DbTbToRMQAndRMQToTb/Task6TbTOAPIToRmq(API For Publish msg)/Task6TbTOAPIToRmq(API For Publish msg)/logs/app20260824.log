@@ -1,0 +1,12 @@
+2026-08-24 15:04:48.209 +05:30 [INF] API Creation Service Start
+2026-08-24 15:04:48.429 +05:30 [INF] Register Services...
+2026-08-24 15:04:48.514 +05:30 [INF] check api is development mode if true then enable swagger 
+2026-08-24 15:04:48.515 +05:30 [INF] sweeger midileware enable 
+2026-08-24 15:04:48.525 +05:30 [INF] Enable Redirection middleware
+2026-08-24 15:04:48.526 +05:30 [INF] enable authoraization middleware
+2026-08-24 15:31:36.792 +05:30 [INF] API Creation Service Start
+2026-08-24 15:31:36.887 +05:30 [INF] Register Services...
+2026-08-24 15:31:36.931 +05:30 [INF] check api is development mode if true then enable swagger 
+2026-08-24 15:31:36.932 +05:30 [INF] sweeger midileware enable 
+2026-08-24 15:31:36.937 +05:30 [INF] Enable Redirection middleware
+2026-08-24 15:31:36.938 +05:30 [INF] enable authoraization middleware

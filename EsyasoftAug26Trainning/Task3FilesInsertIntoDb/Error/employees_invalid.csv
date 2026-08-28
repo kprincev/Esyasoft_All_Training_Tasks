@@ -1,0 +1,6 @@
+EmployeeId,Name,Department,Email,Salary
+129,Arjun Singh,IT,arjun@example.com,43000
+130,Deepak Verma,,deepak@example.com,39000
+130,Duplicate User,HR,duplicate@example.com,40000
+131,Nisha Gupta,Finance,nisha@example.com,NotANumber
+132,Wrong Column,Sales,wrong@example.com,36000,EXTRA

@@ -1,0 +1,6 @@
+EmployeeId,Name,Department,Email,Salary
+111,Rahul Sharma,IT,rahul.sharma@example.com,42000
+112,Priya Verma,HR,priya.verma@example.com,38000
+113,Amit Patel,Sales,amit.patel@example.com,35000
+114,Neha Singh,Finance,neha.singh@example.com,44000
+115,Vikas Jain,IT,vikas.jain@example.com,46000

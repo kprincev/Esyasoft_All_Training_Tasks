@@ -1,0 +1,6 @@
+@Task6TbTOAPIToRmq_API_For_Publish_msg__HostAddress = http://localhost:5028
+
+GET {{Task6TbTOAPIToRmq_API_For_Publish_msg__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
