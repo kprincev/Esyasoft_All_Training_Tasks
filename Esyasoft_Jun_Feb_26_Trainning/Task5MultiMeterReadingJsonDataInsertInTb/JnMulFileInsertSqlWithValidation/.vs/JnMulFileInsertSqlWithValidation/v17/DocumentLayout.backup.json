@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\JnMulFileInsertSqlWithValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|D:\\projects\\JnMulFileInsertSqlWithValidation\\jnmulfileinsertsqlwithvalidation\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|d:\\projects\\jnmulfileinsertsqlwithvalidation\\jnmulfileinsertsqlwithvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|D:\\projects\\JnMulFileInsertSqlWithValidation\\jnmulfileinsertsqlwithvalidation\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|D:\\projects\\JnMulFileInsertSqlWithValidation\\jnmulfileinsertsqlwithvalidation\\batchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\batchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|D:\\projects\\JnMulFileInsertSqlWithValidation\\jnmulfileinsertsqlwithvalidation\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|D:\\projects\\JnMulFileInsertSqlWithValidation\\jnmulfileinsertsqlwithvalidation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|D:\\projects\\JnMulFileInsertSqlWithValidation\\jnmulfileinsertsqlwithvalidation\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A431583A-FDA5-48DF-9405-B73C95C1F0A3}|JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation.csproj|solutionrelative:jnmulfileinsertsqlwithvalidation\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\Models.cs",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\Models.cs",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\Models.cs",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:04:40.332Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1188801156:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\App.config",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\App.config",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\App.config",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-28T08:03:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\FileService.cs",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\FileService.cs",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\FileService.cs",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\FileService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:00:30.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\DatabaseService.cs",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\DatabaseService.cs",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:45:41.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BatchService.cs",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\BatchService.cs",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\BatchService.cs",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\BatchService.cs",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\BatchService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:43:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\ConfigReader.cs",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\ConfigReader.cs",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:33:33.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\Program.cs",
+              "RelativeDocumentMoniker": "JnMulFileInsertSqlWithValidation\\Program.cs",
+              "ToolTip": "D:\\projects\\JnMulFileInsertSqlWithValidation\\JnMulFileInsertSqlWithValidation\\Program.cs",
+              "RelativeToolTip": "JnMulFileInsertSqlWithValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:39:47.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

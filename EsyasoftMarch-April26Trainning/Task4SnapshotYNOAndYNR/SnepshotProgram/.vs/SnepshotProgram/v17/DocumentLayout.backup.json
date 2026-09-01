@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\SnepshotProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|d:\\projects\\snepshotprogram\\snepshotprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|solutionrelative:snepshotprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|D:\\projects\\SnepshotProgram\\snepshotprogram\\databaseservicesfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|solutionrelative:snepshotprogram\\databaseservicesfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|D:\\projects\\SnepshotProgram\\snepshotprogram\\helperfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|solutionrelative:snepshotprogram\\helperfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|D:\\projects\\SnepshotProgram\\snepshotprogram\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|solutionrelative:snepshotprogram\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|D:\\projects\\SnepshotProgram\\snepshotprogram\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|solutionrelative:snepshotprogram\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|D:\\projects\\SnepshotProgram\\snepshotprogram\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0562FC-A0F4-4438-9E21-E0A5A8DBD8E1}|SnepshotProgram\\SnepshotProgram.csproj|solutionrelative:snepshotprogram\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseServicesFunctions.cs",
+              "DocumentMoniker": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\DatabaseServicesFunctions.cs",
+              "RelativeDocumentMoniker": "SnepshotProgram\\DatabaseServicesFunctions.cs",
+              "ToolTip": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\DatabaseServicesFunctions.cs",
+              "RelativeToolTip": "SnepshotProgram\\DatabaseServicesFunctions.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0cAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:35:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelperFunction.cs",
+              "DocumentMoniker": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\HelperFunction.cs",
+              "RelativeDocumentMoniker": "SnepshotProgram\\HelperFunction.cs",
+              "ToolTip": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\HelperFunction.cs",
+              "RelativeToolTip": "SnepshotProgram\\HelperFunction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:33:52.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "SnepshotProgram\\ConfigReader.cs",
+              "ToolTip": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\ConfigReader.cs",
+              "RelativeToolTip": "SnepshotProgram\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:12:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\App.config",
+              "RelativeDocumentMoniker": "SnepshotProgram\\App.config",
+              "ToolTip": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\App.config",
+              "RelativeToolTip": "SnepshotProgram\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-29T07:09:24.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\Models.cs",
+              "RelativeDocumentMoniker": "SnepshotProgram\\Models.cs",
+              "ToolTip": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\Models.cs",
+              "RelativeToolTip": "SnepshotProgram\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T01:31:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\Program.cs",
+              "RelativeDocumentMoniker": "SnepshotProgram\\Program.cs",
+              "ToolTip": "D:\\projects\\SnepshotProgram\\SnepshotProgram\\Program.cs",
+              "RelativeToolTip": "SnepshotProgram\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBYBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T01:30:30.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

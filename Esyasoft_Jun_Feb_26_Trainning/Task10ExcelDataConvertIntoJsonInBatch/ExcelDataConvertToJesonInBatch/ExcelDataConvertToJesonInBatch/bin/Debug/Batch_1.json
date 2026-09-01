@@ -1,0 +1,802 @@
+[
+  {
+    "Meter_id": "MR0001",
+    "Consumer_No": "C1001",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-24",
+    "V": 21.300000000000001,
+    "C": 9.8000000000000007
+  },
+  {
+    "Meter_id": "MR0002",
+    "Consumer_No": "C1002",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-16",
+    "V": 20.399999999999999,
+    "C": 8.1999999999999993
+  },
+  {
+    "Meter_id": "MR0003",
+    "Consumer_No": "C1003",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-23",
+    "V": 21.300000000000001,
+    "C": 7.0999999999999996
+  },
+  {
+    "Meter_id": "MR0004",
+    "Consumer_No": "C1004",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-24",
+    "V": 218.90000000000001,
+    "C": 7.2999999999999998
+  },
+  {
+    "Meter_id": "MR0005",
+    "Consumer_No": "C1005",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-21",
+    "V": 23.800000000000001,
+    "C": 4.7999999999999998
+  },
+  {
+    "Meter_id": "MR0006",
+    "Consumer_No": "C1006",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-06",
+    "V": 217.30000000000001,
+    "C": 4.7000000000000002
+  },
+  {
+    "Meter_id": "MR0007",
+    "Consumer_No": "C1007",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-20",
+    "V": 232.19999999999999,
+    "C": 5.2999999999999998
+  },
+  {
+    "Meter_id": "MR0008",
+    "Consumer_No": "C1008",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-27",
+    "V": 24.199999999999999,
+    "C": 5
+  },
+  {
+    "Meter_id": "MR0009",
+    "Consumer_No": "C1009",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-24",
+    "V": 21,
+    "C": 9.5
+  },
+  {
+    "Meter_id": "MR0010",
+    "Consumer_No": "C1010",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-29",
+    "V": 20.600000000000001,
+    "C": 7.2999999999999998
+  },
+  {
+    "Meter_id": "MR0011",
+    "Consumer_No": "C1011",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-25",
+    "V": 239.80000000000001,
+    "C": 7.0999999999999996
+  },
+  {
+    "Meter_id": "MR0012",
+    "Consumer_No": "C1012",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-25",
+    "V": 24.199999999999999,
+    "C": 7.5
+  },
+  {
+    "Meter_id": "MR0013",
+    "Consumer_No": "C1013",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-04",
+    "V": 21.800000000000001,
+    "C": 4.4000000000000004
+  },
+  {
+    "Meter_id": "MR0014",
+    "Consumer_No": "C1014",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-06",
+    "V": 215.59999999999999,
+    "C": 5.7999999999999998
+  },
+  {
+    "Meter_id": "MR0015",
+    "Consumer_No": "C1015",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-25",
+    "V": 224.5,
+    "C": 8
+  },
+  {
+    "Meter_id": "MR0016",
+    "Consumer_No": "C1016",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-13",
+    "V": 21.199999999999999,
+    "C": 9.5999999999999996
+  },
+  {
+    "Meter_id": "MR0017",
+    "Consumer_No": "C1017",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-04",
+    "V": 222.90000000000001,
+    "C": 7.5
+  },
+  {
+    "Meter_id": "MR0018",
+    "Consumer_No": "C1018",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-19",
+    "V": 24.199999999999999,
+    "C": 7.2000000000000002
+  },
+  {
+    "Meter_id": "MR0019",
+    "Consumer_No": "C1019",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-28",
+    "V": 211.30000000000001,
+    "C": 10
+  },
+  {
+    "Meter_id": "MR0020",
+    "Consumer_No": "C1020",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-28",
+    "V": 21.5,
+    "C": 7.7999999999999998
+  },
+  {
+    "Meter_id": "MR0021",
+    "Consumer_No": "C1021",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-02",
+    "V": 233.90000000000001,
+    "C": 4.0999999999999996
+  },
+  {
+    "Meter_id": "MR0022",
+    "Consumer_No": "C1022",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-02",
+    "V": 24.300000000000001,
+    "C": 5.0999999999999996
+  },
+  {
+    "Meter_id": "MR0023",
+    "Consumer_No": "C1023",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-06",
+    "V": 224.69999999999999,
+    "C": 4.9000000000000004
+  },
+  {
+    "Meter_id": "MR0024",
+    "Consumer_No": "C1024",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-11",
+    "V": 224.09999999999999,
+    "C": 7.5
+  },
+  {
+    "Meter_id": "MR0025",
+    "Consumer_No": "C1025",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-03",
+    "V": 218,
+    "C": 9.6999999999999993
+  },
+  {
+    "Meter_id": "MR0026",
+    "Consumer_No": "C1026",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-17",
+    "V": 23.600000000000001,
+    "C": 7.4000000000000004
+  },
+  {
+    "Meter_id": "MR0027",
+    "Consumer_No": "C1027",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-25",
+    "V": 20.399999999999999,
+    "C": 8.8000000000000007
+  },
+  {
+    "Meter_id": "MR0028",
+    "Consumer_No": "C1028",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-22",
+    "V": 224.80000000000001,
+    "C": 8
+  },
+  {
+    "Meter_id": "MR0029",
+    "Consumer_No": "C1029",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-26",
+    "V": 212.40000000000001,
+    "C": 9.0999999999999996
+  },
+  {
+    "Meter_id": "MR0030",
+    "Consumer_No": "C1030",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-24",
+    "V": 21.5,
+    "C": 5.0999999999999996
+  },
+  {
+    "Meter_id": "MR0031",
+    "Consumer_No": "C1031",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-19",
+    "V": 22.600000000000001,
+    "C": 8.5
+  },
+  {
+    "Meter_id": "MR0032",
+    "Consumer_No": "C1032",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-24",
+    "V": 213.59999999999999,
+    "C": 6.2000000000000002
+  },
+  {
+    "Meter_id": "MR0033",
+    "Consumer_No": "C1033",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-15",
+    "V": 20.5,
+    "C": 9.0999999999999996
+  },
+  {
+    "Meter_id": "MR0034",
+    "Consumer_No": "C1034",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-07",
+    "V": 216.30000000000001,
+    "C": 9.6999999999999993
+  },
+  {
+    "Meter_id": "MR0035",
+    "Consumer_No": "C1035",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-15",
+    "V": 21.199999999999999,
+    "C": 4.2000000000000002
+  },
+  {
+    "Meter_id": "MR0036",
+    "Consumer_No": "C1036",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-24",
+    "V": 226.40000000000001,
+    "C": 5
+  },
+  {
+    "Meter_id": "MR0037",
+    "Consumer_No": "C1037",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-28",
+    "V": 21.199999999999999,
+    "C": 7.9000000000000004
+  },
+  {
+    "Meter_id": "MR0038",
+    "Consumer_No": "C1038",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-13",
+    "V": 24.699999999999999,
+    "C": 4.7999999999999998
+  },
+  {
+    "Meter_id": "MR0039",
+    "Consumer_No": "C1039",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-04",
+    "V": 24.100000000000001,
+    "C": 7
+  },
+  {
+    "Meter_id": "MR0040",
+    "Consumer_No": "C1040",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-02",
+    "V": 213.59999999999999,
+    "C": 9.1999999999999993
+  },
+  {
+    "Meter_id": "MR0041",
+    "Consumer_No": "C1041",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-03",
+    "V": 222.09999999999999,
+    "C": 5.2999999999999998
+  },
+  {
+    "Meter_id": "MR0042",
+    "Consumer_No": "C1042",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-01",
+    "V": 21.399999999999999,
+    "C": 7.2000000000000002
+  },
+  {
+    "Meter_id": "MR0043",
+    "Consumer_No": "C1043",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-20",
+    "V": 22,
+    "C": 4.7999999999999998
+  },
+  {
+    "Meter_id": "MR0044",
+    "Consumer_No": "C1044",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-25",
+    "V": 215.5,
+    "C": 6.7999999999999998
+  },
+  {
+    "Meter_id": "MR0045",
+    "Consumer_No": "C1045",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-27",
+    "V": 238.80000000000001,
+    "C": 5.2000000000000002
+  },
+  {
+    "Meter_id": "MR0046",
+    "Consumer_No": "C1046",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-15",
+    "V": 228.69999999999999,
+    "C": 7.4000000000000004
+  },
+  {
+    "Meter_id": "MR0047",
+    "Consumer_No": "C1047",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-28",
+    "V": 23,
+    "C": 9.0999999999999996
+  },
+  {
+    "Meter_id": "MR0048",
+    "Consumer_No": "C1048",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-18",
+    "V": 231.90000000000001,
+    "C": 8.4000000000000004
+  },
+  {
+    "Meter_id": "MR0049",
+    "Consumer_No": "C1049",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-25",
+    "V": 232.40000000000001,
+    "C": 4.5999999999999996
+  },
+  {
+    "Meter_id": "MR0050",
+    "Consumer_No": "C1050",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-18",
+    "V": 233.40000000000001,
+    "C": 5.5999999999999996
+  },
+  {
+    "Meter_id": "MR0051",
+    "Consumer_No": "C1051",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-04",
+    "V": 213.40000000000001,
+    "C": 4.4000000000000004
+  },
+  {
+    "Meter_id": "MR0052",
+    "Consumer_No": "C1052",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-16",
+    "V": 24.5,
+    "C": 7.2999999999999998
+  },
+  {
+    "Meter_id": "MR0053",
+    "Consumer_No": "C1053",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-04",
+    "V": 213.90000000000001,
+    "C": 4.7999999999999998
+  },
+  {
+    "Meter_id": "MR0054",
+    "Consumer_No": "C1054",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-03-01",
+    "V": 229.59999999999999,
+    "C": 4.9000000000000004
+  },
+  {
+    "Meter_id": "MR0055",
+    "Consumer_No": "C1055",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-23",
+    "V": 211.59999999999999,
+    "C": 5.7999999999999998
+  },
+  {
+    "Meter_id": "MR0056",
+    "Consumer_No": "C1056",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-29",
+    "V": 24.5,
+    "C": 4
+  },
+  {
+    "Meter_id": "MR0057",
+    "Consumer_No": "C1057",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-10",
+    "V": 223.30000000000001,
+    "C": 4.4000000000000004
+  },
+  {
+    "Meter_id": "MR0058",
+    "Consumer_No": "C1058",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-03",
+    "V": 24.800000000000001,
+    "C": 6.4000000000000004
+  },
+  {
+    "Meter_id": "MR0059",
+    "Consumer_No": "C1059",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-01",
+    "V": 236.90000000000001,
+    "C": 7.9000000000000004
+  },
+  {
+    "Meter_id": "MR0060",
+    "Consumer_No": "C1060",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-26",
+    "V": 21.600000000000001,
+    "C": 8.5
+  },
+  {
+    "Meter_id": "MR0061",
+    "Consumer_No": "C1061",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-30",
+    "V": 216.30000000000001,
+    "C": 5.5999999999999996
+  },
+  {
+    "Meter_id": "MR0062",
+    "Consumer_No": "C1062",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-11",
+    "V": 21.100000000000001,
+    "C": 7.9000000000000004
+  },
+  {
+    "Meter_id": "MR0063",
+    "Consumer_No": "C1063",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-25",
+    "V": 215.09999999999999,
+    "C": 4.2000000000000002
+  },
+  {
+    "Meter_id": "MR0064",
+    "Consumer_No": "C1064",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-06",
+    "V": 220.80000000000001,
+    "C": 6.0999999999999996
+  },
+  {
+    "Meter_id": "MR0065",
+    "Consumer_No": "C1065",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-04",
+    "V": 225.09999999999999,
+    "C": 8.1999999999999993
+  },
+  {
+    "Meter_id": "MR0066",
+    "Consumer_No": "C1066",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-25",
+    "V": 22.100000000000001,
+    "C": 6.7999999999999998
+  },
+  {
+    "Meter_id": "MR0067",
+    "Consumer_No": "C1067",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-04",
+    "V": 22.100000000000001,
+    "C": 5.2000000000000002
+  },
+  {
+    "Meter_id": "MR0068",
+    "Consumer_No": "C1068",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-22",
+    "V": 210.30000000000001,
+    "C": 10
+  },
+  {
+    "Meter_id": "MR0069",
+    "Consumer_No": "C1069",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-13",
+    "V": 23.5,
+    "C": 7.9000000000000004
+  },
+  {
+    "Meter_id": "MR0070",
+    "Consumer_No": "C1070",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-07",
+    "V": 227.19999999999999,
+    "C": 9.5
+  },
+  {
+    "Meter_id": "MR0071",
+    "Consumer_No": "C1071",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-30",
+    "V": 233.09999999999999,
+    "C": 4.2000000000000002
+  },
+  {
+    "Meter_id": "MR0072",
+    "Consumer_No": "C1072",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-03-01",
+    "V": 211.59999999999999,
+    "C": 4.7999999999999998
+  },
+  {
+    "Meter_id": "MR0073",
+    "Consumer_No": "C1073",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-01",
+    "V": 22.199999999999999,
+    "C": 5.5999999999999996
+  },
+  {
+    "Meter_id": "MR0074",
+    "Consumer_No": "C1074",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-28",
+    "V": 210,
+    "C": 5.0999999999999996
+  },
+  {
+    "Meter_id": "MR0075",
+    "Consumer_No": "C1075",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-24",
+    "V": 20.699999999999999,
+    "C": 4.5999999999999996
+  },
+  {
+    "Meter_id": "MR0076",
+    "Consumer_No": "C1076",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-30",
+    "V": 239.59999999999999,
+    "C": 9.5999999999999996
+  },
+  {
+    "Meter_id": "MR0077",
+    "Consumer_No": "C1077",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-23",
+    "V": 23.800000000000001,
+    "C": 4.0999999999999996
+  },
+  {
+    "Meter_id": "MR0078",
+    "Consumer_No": "C1078",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-26",
+    "V": 23.600000000000001,
+    "C": 6.5
+  },
+  {
+    "Meter_id": "MR0079",
+    "Consumer_No": "C1079",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-19",
+    "V": 21,
+    "C": 8.5
+  },
+  {
+    "Meter_id": "MR0080",
+    "Consumer_No": "C1080",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-15",
+    "V": 20.199999999999999,
+    "C": 7.0999999999999996
+  },
+  {
+    "Meter_id": "MR0081",
+    "Consumer_No": "C1081",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-26",
+    "V": 20.600000000000001,
+    "C": 7.5999999999999996
+  },
+  {
+    "Meter_id": "MR0082",
+    "Consumer_No": "C1082",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-10",
+    "V": 23.899999999999999,
+    "C": 4.9000000000000004
+  },
+  {
+    "Meter_id": "MR0083",
+    "Consumer_No": "C1083",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-03",
+    "V": 223.40000000000001,
+    "C": 7.9000000000000004
+  },
+  {
+    "Meter_id": "MR0084",
+    "Consumer_No": "C1084",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-06",
+    "V": 236,
+    "C": 4.7000000000000002
+  },
+  {
+    "Meter_id": "MR0085",
+    "Consumer_No": "C1085",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-03-02",
+    "V": 21.399999999999999,
+    "C": 7.5999999999999996
+  },
+  {
+    "Meter_id": "MR0086",
+    "Consumer_No": "C1086",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-11",
+    "V": 21.800000000000001,
+    "C": 5.5999999999999996
+  },
+  {
+    "Meter_id": "MR0087",
+    "Consumer_No": "C1087",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-30",
+    "V": 22.300000000000001,
+    "C": 6.9000000000000004
+  },
+  {
+    "Meter_id": "MR0088",
+    "Consumer_No": "C1088",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-29",
+    "V": 24.800000000000001,
+    "C": 4
+  },
+  {
+    "Meter_id": "MR0089",
+    "Consumer_No": "C1089",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-22",
+    "V": 24.300000000000001,
+    "C": 5.4000000000000004
+  },
+  {
+    "Meter_id": "MR0090",
+    "Consumer_No": "C1090",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-25",
+    "V": 23.899999999999999,
+    "C": 6.2999999999999998
+  },
+  {
+    "Meter_id": "MR0091",
+    "Consumer_No": "C1091",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-04",
+    "V": 21.199999999999999,
+    "C": 9.6999999999999993
+  },
+  {
+    "Meter_id": "MR0092",
+    "Consumer_No": "C1092",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-27",
+    "V": 23.899999999999999,
+    "C": 4.2999999999999998
+  },
+  {
+    "Meter_id": "MR0093",
+    "Consumer_No": "C1093",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-31",
+    "V": 21.100000000000001,
+    "C": 8.0999999999999996
+  },
+  {
+    "Meter_id": "MR0094",
+    "Consumer_No": "C1094",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-15",
+    "V": 225.30000000000001,
+    "C": 9.9000000000000004
+  },
+  {
+    "Meter_id": "MR0095",
+    "Consumer_No": "C1095",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-27",
+    "V": 239.59999999999999,
+    "C": 5.2999999999999998
+  },
+  {
+    "Meter_id": "MR0096",
+    "Consumer_No": "C1096",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-16",
+    "V": 210.30000000000001,
+    "C": 7.5999999999999996
+  },
+  {
+    "Meter_id": "MR0097",
+    "Consumer_No": "C1097",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-01-08",
+    "V": 219.19999999999999,
+    "C": 6.2999999999999998
+  },
+  {
+    "Meter_id": "MR0098",
+    "Consumer_No": "C1098",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-02-14",
+    "V": 23.699999999999999,
+    "C": 8.8000000000000007
+  },
+  {
+    "Meter_id": "MR0099",
+    "Consumer_No": "C1099",
+    "Meter_Phase": "TP",
+    "Reading_Date": "2026-02-08",
+    "V": 234.59999999999999,
+    "C": 7.5999999999999996
+  },
+  {
+    "Meter_id": "MR0100",
+    "Consumer_No": "C1100",
+    "Meter_Phase": "SP",
+    "Reading_Date": "2026-01-04",
+    "V": 22.199999999999999,
+    "C": 8.1999999999999993
+  }
+]

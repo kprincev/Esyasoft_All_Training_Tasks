@@ -1,0 +1,11 @@
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\bin\Debug\InsertDataInMSSql.exe.config
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\bin\Debug\InsertDataInMSSql.exe
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\bin\Debug\InsertDataInMSSql.pdb
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\obj\Debug\InsertDataInMSSql.csproj.AssemblyReference.cache
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\obj\Debug\InsertDataInMSSql.csproj.CoreCompileInputs.cache
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\obj\Debug\InsertDa.3DB8FD04.Up2Date
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\obj\Debug\InsertDataInMSSql.exe
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\obj\Debug\InsertDataInMSSql.pdb
+D:\projects\InsertDataInMSSql\InsertDataInMSSql\obj\Debug\InsertDataInMSSql.exe.config

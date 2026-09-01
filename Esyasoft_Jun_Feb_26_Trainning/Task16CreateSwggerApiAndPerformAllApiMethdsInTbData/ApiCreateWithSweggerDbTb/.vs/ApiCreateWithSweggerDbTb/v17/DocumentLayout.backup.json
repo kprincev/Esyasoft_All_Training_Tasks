@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\ApiCreateWithSweggerDbTb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|d:\\projects\\apicreatewithsweggerdbtb\\apicreatewithsweggerdbtb\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|solutionrelative:apicreatewithsweggerdbtb\\consumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|d:\\projects\\apicreatewithsweggerdbtb\\apicreatewithsweggerdbtb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|solutionrelative:apicreatewithsweggerdbtb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|d:\\projects\\apicreatewithsweggerdbtb\\apicreatewithsweggerdbtb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|solutionrelative:apicreatewithsweggerdbtb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|d:\\projects\\apicreatewithsweggerdbtb\\apicreatewithsweggerdbtb\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|solutionrelative:apicreatewithsweggerdbtb\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|d:\\projects\\apicreatewithsweggerdbtb\\apicreatewithsweggerdbtb\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE5F5DD-E2F2-4D77-856B-6061F79518FB}|ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb.csproj|solutionrelative:apicreatewithsweggerdbtb\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1188801156:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumerController.cs",
+              "DocumentMoniker": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\ConsumerController.cs",
+              "RelativeDocumentMoniker": "ApiCreateWithSweggerDbTb\\ConsumerController.cs",
+              "ToolTip": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\ConsumerController.cs",
+              "RelativeToolTip": "ApiCreateWithSweggerDbTb\\ConsumerController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:15:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCreateWithSweggerDbTb\\Program.cs",
+              "ToolTip": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\Program.cs",
+              "RelativeToolTip": "ApiCreateWithSweggerDbTb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:13:38.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCreateWithSweggerDbTb\\appsettings.json",
+              "ToolTip": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\appsettings.json",
+              "RelativeToolTip": "ApiCreateWithSweggerDbTb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-11T14:12:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextcs.cs",
+              "DocumentMoniker": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\AppDbContextcs.cs",
+              "RelativeDocumentMoniker": "ApiCreateWithSweggerDbTb\\AppDbContextcs.cs",
+              "ToolTip": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\AppDbContextcs.cs",
+              "RelativeToolTip": "ApiCreateWithSweggerDbTb\\AppDbContextcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:11:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\Models.cs",
+              "RelativeDocumentMoniker": "ApiCreateWithSweggerDbTb\\Models.cs",
+              "ToolTip": "D:\\projects\\ApiCreateWithSweggerDbTb\\ApiCreateWithSweggerDbTb\\Models.cs",
+              "RelativeToolTip": "ApiCreateWithSweggerDbTb\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:10:15.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

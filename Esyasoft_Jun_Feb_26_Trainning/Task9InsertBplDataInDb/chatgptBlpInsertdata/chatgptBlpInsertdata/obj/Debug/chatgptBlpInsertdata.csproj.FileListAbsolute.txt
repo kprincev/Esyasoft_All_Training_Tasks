@@ -1,0 +1,11 @@
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\bin\Debug\chatgptBlpInsertdata.exe.config
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\bin\Debug\chatgptBlpInsertdata.exe
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\bin\Debug\chatgptBlpInsertdata.pdb
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\obj\Debug\chatgptBlpInsertdata.csproj.AssemblyReference.cache
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\obj\Debug\chatgptBlpInsertdata.csproj.CoreCompileInputs.cache
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\obj\Debug\chatgptB.8A347D03.Up2Date
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\obj\Debug\chatgptBlpInsertdata.exe
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\obj\Debug\chatgptBlpInsertdata.pdb
+D:\projects\chatgptBlpInsertdata\chatgptBlpInsertdata\obj\Debug\chatgptBlpInsertdata.exe.config

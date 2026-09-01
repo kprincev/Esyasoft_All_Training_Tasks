@@ -1,0 +1,11 @@
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\bin\Debug\LsHoursSummeryData.exe.config
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\bin\Debug\LsHoursSummeryData.exe
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\bin\Debug\LsHoursSummeryData.pdb
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\obj\Debug\LsHoursSummeryData.csproj.AssemblyReference.cache
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\obj\Debug\LsHoursSummeryData.csproj.CoreCompileInputs.cache
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\obj\Debug\LsHoursSummeryData.exe
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\obj\Debug\LsHoursSummeryData.pdb
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\obj\Debug\LsHoursSummeryData.exe.config
+D:\projects\LsHoursSummeryData\LsHoursSummeryData\obj\Debug\LsHoursS.E0BF1D03.Up2Date

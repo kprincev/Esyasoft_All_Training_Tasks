@@ -1,0 +1,11 @@
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\bin\Debug\IndexFindInDbPrint.exe.config
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\bin\Debug\IndexFindInDbPrint.exe
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\bin\Debug\IndexFindInDbPrint.pdb
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\obj\Debug\IndexFindInDbPrint.csproj.AssemblyReference.cache
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\obj\Debug\IndexFindInDbPrint.csproj.CoreCompileInputs.cache
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\obj\Debug\IndexFin.FBA7A0F8.Up2Date
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\obj\Debug\IndexFindInDbPrint.exe
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\obj\Debug\IndexFindInDbPrint.pdb
+D:\projects\IndexFindInDbPrint\IndexFindInDbPrint\obj\Debug\IndexFindInDbPrint.exe.config

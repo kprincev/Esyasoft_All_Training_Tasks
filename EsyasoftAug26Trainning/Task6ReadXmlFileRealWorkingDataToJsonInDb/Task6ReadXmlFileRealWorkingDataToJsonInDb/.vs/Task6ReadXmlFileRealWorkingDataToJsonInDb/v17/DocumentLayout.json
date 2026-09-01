@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Prince\\AppData\\Local\\Temp\\cc485dbf-9d7f-4c42-8030-fd79ef21569d_LngFile_Reading task.zip.69d\\LngFile_Reading task\\IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Prince\\AppData\\Local\\Temp\\f6d4dd81-50d6-46b3-a491-d1923f400f8c_LngFile_Reading task.zip.f8c\\LngFile_Reading task\\IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +17,24 @@
       "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\xmlfilereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|d:\\esyasoft trainning tasks\\esyasoftaug26trainning\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\task6readxmlfilerealworkingdatatojsonindb\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D88F5F2-54E5-4859-8C33-D505C865EE6B}|Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb.csproj|solutionrelative:task6readxmlfilerealworkingdatatojsonindb\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,90 +61,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json",
+              "DocumentMoniker": "C:\\Users\\Prince\\AppData\\Local\\Temp\\cc485dbf-9d7f-4c42-8030-fd79ef21569d_LngFile_Reading task.zip.69d\\LngFile_Reading task\\IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json",
+              "ToolTip": "C:\\Users\\Prince\\AppData\\Local\\Temp\\cc485dbf-9d7f-4c42-8030-fd79ef21569d_LngFile_Reading task.zip.69d\\LngFile_Reading task\\IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-31T10:02:53.943Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json",
+              "DocumentMoniker": "C:\\Users\\Prince\\AppData\\Local\\Temp\\f6d4dd81-50d6-46b3-a491-d1923f400f8c_LngFile_Reading task.zip.f8c\\LngFile_Reading task\\IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json",
+              "ToolTip": "C:\\Users\\Prince\\AppData\\Local\\Temp\\f6d4dd81-50d6-46b3-a491-d1923f400f8c_LngFile_Reading task.zip.f8c\\LngFile_Reading task\\IP_job_EsyaUI88B358B2-9344-4758-A2A1-CFFA8D1C8E691_IP_af2ed6998f33429f8b537365bda74b16.json [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-31T10:02:20.703Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TaskService.cs",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\TaskService.cs",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\TaskService.cs",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\TaskService.cs",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\TaskService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwEYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T04:04:15.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T04:04:15.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HelperMethods.cs",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\HelperMethods.cs",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\HelperMethods.cs",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\HelperMethods.cs",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\HelperMethods.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T01:24:44.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "XmlFileReadingService.cs",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\XmlFileReadingService.cs",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\XmlFileReadingService.cs",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\XmlFileReadingService.cs",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\XmlFileReadingService.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAYwHEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T00:30:24.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T00:30:24.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ConfigReader.cs",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\ConfigReader.cs",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\ConfigReader.cs",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\ConfigReader.cs",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\ConfigReader.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T00:27:29.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DataBaseService.cs",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\DataBaseService.cs",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\DataBaseService.cs",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\DataBaseService.cs",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\DataBaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-24T18:54:40.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\appsettings.json",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\appsettings.json",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\appsettings.json",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-24T16:15:48.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T16:15:48.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Program.cs",
               "RelativeDocumentMoniker": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\Program.cs",
               "ToolTip": "D:\\Esyasoft Trainning Tasks\\EsyasoftAug26Trainning\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Task6ReadXmlFileRealWorkingDataToJsonInDb\\Program.cs",
               "RelativeToolTip": "Task6ReadXmlFileRealWorkingDataToJsonInDb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T16:02:18.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T16:02:18.586Z"
             }
           ]
         }

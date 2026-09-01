@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\InsertDataExcelToSql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949A536F-EF99-4F0B-B1E3-B0B179EC10F8}|InsertDataExcelToSql\\InsertDataExcelToSql.csproj|D:\\projects\\InsertDataExcelToSql\\insertdataexceltosql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949A536F-EF99-4F0B-B1E3-B0B179EC10F8}|InsertDataExcelToSql\\InsertDataExcelToSql.csproj|solutionrelative:insertdataexceltosql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949A536F-EF99-4F0B-B1E3-B0B179EC10F8}|InsertDataExcelToSql\\InsertDataExcelToSql.csproj|d:\\projects\\insertdataexceltosql\\insertdataexceltosql\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{949A536F-EF99-4F0B-B1E3-B0B179EC10F8}|InsertDataExcelToSql\\InsertDataExcelToSql.csproj|solutionrelative:insertdataexceltosql\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\projects\\InsertDataExcelToSql\\InsertDataExcelToSql\\App.config",
+              "RelativeDocumentMoniker": "InsertDataExcelToSql\\App.config",
+              "ToolTip": "D:\\projects\\InsertDataExcelToSql\\InsertDataExcelToSql\\App.config",
+              "RelativeToolTip": "InsertDataExcelToSql\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-27T07:58:56.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\InsertDataExcelToSql\\InsertDataExcelToSql\\Program.cs",
+              "RelativeDocumentMoniker": "InsertDataExcelToSql\\Program.cs",
+              "ToolTip": "D:\\projects\\InsertDataExcelToSql\\InsertDataExcelToSql\\Program.cs",
+              "RelativeToolTip": "InsertDataExcelToSql\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:58:50.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

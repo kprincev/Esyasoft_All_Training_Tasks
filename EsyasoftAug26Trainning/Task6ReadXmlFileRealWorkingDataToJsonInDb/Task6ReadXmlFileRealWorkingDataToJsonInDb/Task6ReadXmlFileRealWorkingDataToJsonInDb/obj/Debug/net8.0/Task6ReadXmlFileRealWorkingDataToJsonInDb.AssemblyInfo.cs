@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task6ReadXmlFileRealWorkingDataToJsonInDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c03a7c997a41e54ff05c6e548d610bf35b4422")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task6ReadXmlFileRealWorkingDataToJsonInDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task6ReadXmlFileRealWorkingDataToJsonInDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

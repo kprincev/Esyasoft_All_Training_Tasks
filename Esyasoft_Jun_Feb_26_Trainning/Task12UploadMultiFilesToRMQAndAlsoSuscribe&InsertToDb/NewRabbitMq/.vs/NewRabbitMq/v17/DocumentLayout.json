@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\NewRabbitMq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\pendingprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\pendingprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\subscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\subscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|d:\\projects\\newrabbitmq\\newrabbitmq\\rabbitfilepipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\rabbitfilepipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\rabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\rabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\filemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\filemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|D:\\projects\\NewRabbitMq\\newrabbitmq\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AC5EDE-090D-4D6C-8F09-2B300D23407C}|NewRabbitMq\\NewRabbitMq.csproj|solutionrelative:newrabbitmq\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitFilePipeline.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\RabbitFilePipeline.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\RabbitFilePipeline.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\RabbitFilePipeline.cs",
+              "RelativeToolTip": "NewRabbitMq\\RabbitFilePipeline.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:54:16.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1188801156:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\App.config",
+              "RelativeDocumentMoniker": "NewRabbitMq\\App.config",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\App.config",
+              "RelativeToolTip": "NewRabbitMq\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-04T07:00:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PendingProcessor.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\PendingProcessor.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\PendingProcessor.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\PendingProcessor.cs",
+              "RelativeToolTip": "NewRabbitMq\\PendingProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:41:08.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitService.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\RabbitService.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\RabbitService.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\RabbitService.cs",
+              "RelativeToolTip": "NewRabbitMq\\RabbitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:38:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileMessage.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\FileMessage.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\FileMessage.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\FileMessage.cs",
+              "RelativeToolTip": "NewRabbitMq\\FileMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:32:01.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriberService.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\SubscriberService.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\SubscriberService.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\SubscriberService.cs",
+              "RelativeToolTip": "NewRabbitMq\\SubscriberService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:40:34.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\PublisherService.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\PublisherService.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\PublisherService.cs",
+              "RelativeToolTip": "NewRabbitMq\\PublisherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:32:49.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\Program.cs",
+              "RelativeDocumentMoniker": "NewRabbitMq\\Program.cs",
+              "ToolTip": "D:\\projects\\NewRabbitMq\\NewRabbitMq\\Program.cs",
+              "RelativeToolTip": "NewRabbitMq\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:31:18.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

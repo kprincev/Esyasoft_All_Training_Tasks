@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aug26Task3MultipleFilesDataStoreInDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c03a7c997a41e54ff05c6e548d610bf35b4422")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aug26Task3MultipleFilesDataStoreInDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aug26Task3MultipleFilesDataStoreInDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\LsHoursSummeryData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|D:\\projects\\LsHoursSummeryData\\lshourssummerydata\\putdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|solutionrelative:lshourssummerydata\\putdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|D:\\projects\\LsHoursSummeryData\\lshourssummerydata\\getdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|solutionrelative:lshourssummerydata\\getdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|d:\\projects\\lshourssummerydata\\lshourssummerydata\\processdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|solutionrelative:lshourssummerydata\\processdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|D:\\projects\\LsHoursSummeryData\\lshourssummerydata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|solutionrelative:lshourssummerydata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|D:\\projects\\LsHoursSummeryData\\lshourssummerydata\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC02E37A-D300-4185-9E68-014167FDBA96}|LsHoursSummeryData\\LsHoursSummeryData.csproj|solutionrelative:lshourssummerydata\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1188801156:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PutDataService.cs",
+              "DocumentMoniker": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\PutDataService.cs",
+              "RelativeDocumentMoniker": "LsHoursSummeryData\\PutDataService.cs",
+              "ToolTip": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\PutDataService.cs",
+              "RelativeToolTip": "LsHoursSummeryData\\PutDataService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:33:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDataService.cs",
+              "DocumentMoniker": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\GetDataService.cs",
+              "RelativeDocumentMoniker": "LsHoursSummeryData\\GetDataService.cs",
+              "ToolTip": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\GetDataService.cs",
+              "RelativeToolTip": "LsHoursSummeryData\\GetDataService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:31:33.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessData.cs",
+              "DocumentMoniker": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\ProcessData.cs",
+              "RelativeDocumentMoniker": "LsHoursSummeryData\\ProcessData.cs",
+              "ToolTip": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\ProcessData.cs",
+              "RelativeToolTip": "LsHoursSummeryData\\ProcessData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:30:15.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\App.config",
+              "RelativeDocumentMoniker": "LsHoursSummeryData\\App.config",
+              "ToolTip": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\App.config",
+              "RelativeToolTip": "LsHoursSummeryData\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-11T03:13:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\Program.cs",
+              "RelativeDocumentMoniker": "LsHoursSummeryData\\Program.cs",
+              "ToolTip": "D:\\projects\\LsHoursSummeryData\\LsHoursSummeryData\\Program.cs",
+              "RelativeToolTip": "LsHoursSummeryData\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T02:58:53.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

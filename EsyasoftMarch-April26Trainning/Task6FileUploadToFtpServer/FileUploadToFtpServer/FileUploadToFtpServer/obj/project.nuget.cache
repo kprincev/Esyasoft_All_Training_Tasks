@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWpX9zDnHW4=",
+  "success": true,
+  "projectFilePath": "D:\\Esyasoft Trainning Tasks\\EsyasoftMarch-April26Trainning\\Task6FileUploadToFtpServer\\FileUploadToFtpServer\\FileUploadToFtpServer\\FileUploadToFtpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prince\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\fluentftp\\50.0.0\\fluentftp.50.0.0.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.5\\microsoft.extensions.configuration.fileextensions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.5\\microsoft.extensions.configuration.json.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.5\\microsoft.extensions.fileproviders.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.5\\microsoft.extensions.fileproviders.physical.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.5\\microsoft.extensions.filesystemglobbing.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\ssh.net\\2025.1.0\\ssh.net.2025.1.0.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\system.io.pipelines\\10.0.5\\system.io.pipelines.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\system.text.encodings.web\\10.0.5\\system.text.encodings.web.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prince\\.nuget\\packages\\system.text.json\\10.0.5\\system.text.json.10.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SSH.NET' 2025.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-q939-rpr3-3284",
+      "projectPath": "D:\\Esyasoft Trainning Tasks\\EsyasoftMarch-April26Trainning\\Task6FileUploadToFtpServer\\FileUploadToFtpServer\\FileUploadToFtpServer\\FileUploadToFtpServer.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Esyasoft Trainning Tasks\\EsyasoftMarch-April26Trainning\\Task6FileUploadToFtpServer\\FileUploadToFtpServer\\FileUploadToFtpServer\\FileUploadToFtpServer.csproj",
+      "libraryId": "SSH.NET",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

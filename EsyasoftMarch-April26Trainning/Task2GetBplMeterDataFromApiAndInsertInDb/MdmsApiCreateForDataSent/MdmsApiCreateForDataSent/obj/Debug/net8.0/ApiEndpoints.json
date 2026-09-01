@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MdmsApiCreateForDataSync.Controllers.MeterController",
+    "Method": "FetchData",
+    "RelativePath": "api/Meter/fetchdata",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MeterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

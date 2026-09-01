@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|d:\\esyasoft trainning tasks\\esyasoft_jun_feb_26_trainning\\task9insertbpldataindb\\insertbpldata\\insertbpldata\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\splitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\splitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\modle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\modle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\filevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\filevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\insertbpldata\\filemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD150FC-0AAE-49ED-9F1B-73F12D071E81}|InsertBplData\\InsertBplData.csproj|solutionrelative:insertbpldata\\filemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1188801156:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileMover.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\FileMover.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\FileMover.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\FileMover.cs",
+              "RelativeToolTip": "InsertBplData\\FileMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:32:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modle.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\Modle.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\Modle.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\Modle.cs",
+              "RelativeToolTip": "InsertBplData\\Modle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:25:37.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\DatabaseService.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\DatabaseService.cs",
+              "RelativeToolTip": "InsertBplData\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:21:24.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\ConfigReader.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\ConfigReader.cs",
+              "RelativeToolTip": "InsertBplData\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:09:23.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\App.config",
+              "RelativeDocumentMoniker": "InsertBplData\\App.config",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\App.config",
+              "RelativeToolTip": "InsertBplData\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-31T12:21:22.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SplitService.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\SplitService.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\SplitService.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\SplitService.cs",
+              "RelativeToolTip": "InsertBplData\\SplitService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:28:12.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileValidation.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\FileValidation.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\FileValidation.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\FileValidation.cs",
+              "RelativeToolTip": "InsertBplData\\FileValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:30:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\Batch.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\Batch.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\Batch.cs",
+              "RelativeToolTip": "InsertBplData\\Batch.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:27:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\Program.cs",
+              "RelativeDocumentMoniker": "InsertBplData\\Program.cs",
+              "ToolTip": "D:\\Esyasoft Trainning Tasks\\Esyasoft_Jun_Feb_26_Trainning\\Task9InsertBplDataInDb\\InsertBplData\\InsertBplData\\Program.cs",
+              "RelativeToolTip": "InsertBplData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:17:44.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

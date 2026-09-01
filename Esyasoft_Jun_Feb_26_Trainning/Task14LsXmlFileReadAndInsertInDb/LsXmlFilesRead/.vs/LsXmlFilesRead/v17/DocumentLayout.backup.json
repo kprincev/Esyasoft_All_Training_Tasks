@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\LsXmlFilesRead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\databaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\databaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|d:\\projects\\lsxmlfilesread\\lsxmlfilesread\\lsxmlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\lsxmlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\jesonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\jesonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\filemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\filemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|D:\\projects\\LsXmlFilesRead\\lsxmlfilesread\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69237063-FE0A-4B7D-8A01-93B45C838B45}|LsXmlFilesRead\\LsXmlFilesRead.csproj|solutionrelative:lsxmlfilesread\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\FileValidator.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\FileValidator.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\FileValidator.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\FileValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:31:13.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileMover.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\FileMover.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\FileMover.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\FileMover.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\FileMover.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:11:33.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\ConfigReader.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\ConfigReader.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\ConfigReader.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:05:02.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseServices.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\DatabaseServices.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\DatabaseServices.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\DatabaseServices.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\DatabaseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T04:00:04.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JesonConverter.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\JesonConverter.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\JesonConverter.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\JesonConverter.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\JesonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:58:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\App.config",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\App.config",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\App.config",
+              "RelativeToolTip": "LsXmlFilesRead\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-10T01:02:15.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LsXmlReader.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\LsXmlReader.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\LsXmlReader.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\LsXmlReader.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\LsXmlReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:35:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "batch.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\batch.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\batch.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\batch.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\batch.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:08:57.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\Program.cs",
+              "RelativeDocumentMoniker": "LsXmlFilesRead\\Program.cs",
+              "ToolTip": "D:\\projects\\LsXmlFilesRead\\LsXmlFilesRead\\Program.cs",
+              "RelativeToolTip": "LsXmlFilesRead\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:09:12.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

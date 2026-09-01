@@ -1,0 +1,13 @@
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\WeatherApiDataInserter.exe.config
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\WeatherApiDataInserter.exe
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\WeatherApiDataInserter.pdb
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\Newtonsoft.Json.dll
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\Newtonsoft.Json.xml
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\obj\Debug\WeatherApiDataInserter.csproj.AssemblyReference.cache
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\obj\Debug\WeatherApiDataInserter.csproj.CoreCompileInputs.cache
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\obj\Debug\WeatherA.C9F5852D.Up2Date
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\obj\Debug\WeatherApiDataInserter.exe
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\obj\Debug\WeatherApiDataInserter.pdb
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\WeatherApiDataInserter\WeatherApiDataInserter\obj\Debug\WeatherApiDataInserter.exe.config

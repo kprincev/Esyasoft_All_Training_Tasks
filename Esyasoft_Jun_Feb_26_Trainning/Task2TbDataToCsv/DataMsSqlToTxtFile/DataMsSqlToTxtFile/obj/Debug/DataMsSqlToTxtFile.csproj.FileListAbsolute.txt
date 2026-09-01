@@ -1,0 +1,11 @@
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\bin\Debug\DataMsSqlToTxtFile.exe.config
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\bin\Debug\DataMsSqlToTxtFile.exe
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\bin\Debug\DataMsSqlToTxtFile.pdb
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\obj\Debug\DataMsSqlToTxtFile.csproj.AssemblyReference.cache
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\obj\Debug\DataMsSqlToTxtFile.csproj.CoreCompileInputs.cache
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\obj\Debug\DataMsSq.2DDD84A1.Up2Date
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\obj\Debug\DataMsSqlToTxtFile.exe
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\obj\Debug\DataMsSqlToTxtFile.pdb
+D:\projects\DataMsSqlToTxtFile\DataMsSqlToTxtFile\obj\Debug\DataMsSqlToTxtFile.exe.config

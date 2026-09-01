@@ -1,0 +1,11 @@
+D:\projects\InsertBplData\InsertBplData\bin\Debug\InsertBplData.exe.config
+D:\projects\InsertBplData\InsertBplData\bin\Debug\InsertBplData.exe
+D:\projects\InsertBplData\InsertBplData\bin\Debug\InsertBplData.pdb
+D:\projects\InsertBplData\InsertBplData\obj\Debug\InsertBplData.csproj.AssemblyReference.cache
+D:\projects\InsertBplData\InsertBplData\obj\Debug\InsertBplData.csproj.CoreCompileInputs.cache
+D:\projects\InsertBplData\InsertBplData\obj\Debug\InsertBplData.exe
+D:\projects\InsertBplData\InsertBplData\obj\Debug\InsertBplData.pdb
+D:\projects\InsertBplData\InsertBplData\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\InsertBplData\InsertBplData\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\InsertBplData\InsertBplData\obj\Debug\InsertBplData.exe.config
+D:\projects\InsertBplData\InsertBplData\obj\Debug\InsertBp.A01776AF.Up2Date
